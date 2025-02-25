@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(14, 70, 53);
+    color: rgb(240, 237, 51);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+#navbar{
+    padding: 5px;
+    background-color: rgb(14, 70, 53);
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
+
+#icon{
+    height: 5px;
+    width: 5px;
+    align-items: center;
+    justify-content: center;
+}
+#noticias{
+    background-color: rgb(14, 70, 53);
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(240, 237, 51);
+
+    display:flex;
+    justify-content: space-around;
+}
+
+.noticia{
+    background-color: black;
+    padding: 7px;
+    border-style: solid;
+    text-align: center;
+
+}
+
+.imagem_noticia{
+    height: 100px;
+}
+
+#rodape{
+    text-align: center;
+}
+
+#vilao{
+    background-color: rgb(99, 99, 5);
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.viloes{
+    background-color: black;
+    padding: 7px;
+    border-style: solid;
+    text-align: center;
+}
