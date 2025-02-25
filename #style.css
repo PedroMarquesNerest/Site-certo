@@ -47,10 +47,10 @@ body{
 }
 
 #vilao{
-    background-color: rgb(99, 99, 5);
+    background-color: rgb(4, 59, 57);
     padding: 10px;
     border-style: solid;
-    border-color: rgb(255, 0, 0);
+    border-color: rgba(104, 4, 4, 0.541);
     display:flex;
     justify-content: space-around;
 
